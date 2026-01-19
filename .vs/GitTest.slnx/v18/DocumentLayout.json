@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\hckri\\source\\repos\\Console\\GitTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{888B3B0B-87F4-4816-B6A6-CCB80348F0BC}|GitTest\\GitTest.csproj|c:\\users\\hckri\\source\\repos\\console\\gittest\\gittest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{888B3B0B-87F4-4816-B6A6-CCB80348F0BC}|GitTest\\GitTest.csproj|solutionrelative:gittest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98855A7E-D5CC-9BD6-CD1E-6C874E3A35A7}|GitTest\\GitTest.csproj|c:\\users\\hckri\\source\\repos\\console\\gittest\\gittest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98855A7E-D5CC-9BD6-CD1E-6C874E3A35A7}|GitTest\\GitTest.csproj|solutionrelative:gittest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "GitTest\\Program.cs",
               "ToolTip": "C:\\Users\\hckri\\source\\repos\\Console\\GitTest\\GitTest\\Program.cs",
               "RelativeToolTip": "GitTest\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-19T23:22:38.366Z",
               "EditorCaption": ""
